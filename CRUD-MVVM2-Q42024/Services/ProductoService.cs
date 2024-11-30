@@ -1,8 +1,6 @@
 ﻿using CRUD_MVVM2_Q42024.Models;
 using SQLite;
 
-;
-
 namespace CRUD_MVVM2_Q42024.Services
 {
     public class ProductoService
